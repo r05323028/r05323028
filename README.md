@@ -1,5 +1,8 @@
 # Sean Chang
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r05323028/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sean50301/)
+
 Hi there! I work at **KKLab, KKBOX Group, TW** currently. In my spare time, I often explore new techniques of NLP or cool things on GitHub Explore:sunglasses:.
 
 - Sr. Data Scientist at KKLab, KKBOX Group.
