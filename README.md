@@ -6,7 +6,7 @@
 Hi there! I work at **KKLab, KKBOX Group, TW** currently. In my spare time, I often explore new techniques of NLP or cool things on GitHub Explore:sunglasses:.
 
 - Sr. Data Scientist at KKLab, KKBOX Group.
-- Interested in **Machine Learning/Deep Learning**, **Web/App Development**.
+- Interesting in **Machine Learning/Deep Learning**, **Web/App Development**.
 
 ## GitHub Stats
 <p align="center">
