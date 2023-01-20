@@ -11,7 +11,15 @@ Hi there! I work at **TSMC, LTD. TW** currently. In my spare time, I often explo
 - Interesting in **Machine Learning/Deep Learning**, **Web/App Development**.
 
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r05323028&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=r05323028&show_icons=true&theme=default&layout=compact" />
-</p>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=r05323028&layout=compact"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=r05323028&show_icons=true&theme=default&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
