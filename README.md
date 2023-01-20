@@ -13,3 +13,5 @@ Hi there! I work at **TSMC, LTD. TW** currently. In my spare time, I often explo
 ## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r05323028&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=r05323028&show_icons=true&theme=transparent)
